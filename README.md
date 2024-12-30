@@ -5,7 +5,7 @@ Domain:PYTHON PROGRAMMING
 Duration:12-DEC-2024 TO 27-JAN-2025
 Mentor:N SANTHOSH KUMAR
 
-**OVERVEIW OF THE PROJECT**
+**OVERVEIW OF THE PROJECT** 
 PROJECT: Simple Calculator
 This project is a Simple Calculator implemented in Python. It performs basic arithmetic operations including addition, subtraction, multiplication, and division. The program prompts the user to input two numbers and an operation, then calculates and displays the result.
 
