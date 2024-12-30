@@ -23,3 +23,5 @@ This project is a Simple Calculator implemented in Python. It performs basic ari
 -Use conditional statements to determine and execute the appropriate arithmetic operation based on user input.
 4.Handle Edge Cases Gracefully
 -Include basic error handling to manage situations such as division by zero, ensuring the program remains robust and user-friendly.
+
+
